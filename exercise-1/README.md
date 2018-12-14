@@ -18,6 +18,8 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 ---
 
 
+This morning I had
 1. Coffee
 2. Bagels
 3. Coffee
+4. (Forgot, one more cup of coffee)
